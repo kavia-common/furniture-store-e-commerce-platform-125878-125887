@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/furniture-store-e-commerce-platform-125878-125887/furniture_frontend"
+}
